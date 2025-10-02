@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Anuj Singh - Software Engineer & Mobile App Developer | Home</title>
+        <title> Candacy Nurse - Procurement Officer Ministry of Works | Home</title>
         <meta name="description" content="Hi! I'm Anuj Singh, a passionate software engineer specializing in Mobile App Development. I love learning new technologies and meeting new people." />
         <meta name="keywords" content="Anuj Singh, software engineer, mobile app developer, React Native, portfolio, India" />
         <meta property="og:title" content="Anuj Singh - Software Engineer & Mobile App Developer" />
